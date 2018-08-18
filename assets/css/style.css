@@ -1,7 +1,7 @@
 
-        /* html {
+        html {
         background-image: url("file:///Users/veronica/Basic-Portfolio/assets/images/qbkls.jpg");  
-        }  */
+        }  
 
        /* html, body {
         height: 100%;
@@ -12,9 +12,9 @@
         flex-direction: column;
        } */
 
-       html {
+       /* html {
          background: gray;
-       }
+       } */
         
        .link {
         float: right;
