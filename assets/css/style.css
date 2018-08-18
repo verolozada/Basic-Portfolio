@@ -1,8 +1,8 @@
 
-       html {
-        /* background-image: url("file:///Users/veronica/Basic-Portfolio/assets/images/qbkls.jpg");  */
+       /* html {
+         background-image: url("file:///Users/veronica/Basic-Portfolio/assets/images/qbkls.jpg");  
         background: gray;
-        }
+         } */
 
 
        /* html, body {
@@ -13,6 +13,10 @@
         display: flex;
         flex-direction: column;
        } */
+
+       body {
+          background: gray;
+       }
         
        .link {
         float: right;
