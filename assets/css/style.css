@@ -2,15 +2,15 @@
         .all {
         background-image: url("https://github.com/verolozada/Basic-Portfolio/blob/master/assets/images/qbkls.jpg?raw=true");  
         }  
-
-       /* html, body {
+/* 
+       html, body {
         height: 100%;
-       }
+       } 
 
        body {
         display: flex;
         flex-direction: column;
-       } */
+       }  */
 
        .link {
         float: right;
@@ -62,7 +62,7 @@
         color: #777777;
         font-family: Arial, Helvetica, sans-serif;
         text-align: justify;
-        flex: 1 0 auto;
+        /* flex: 1 0 auto; */
         }
 
         
